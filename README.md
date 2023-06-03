@@ -1,4 +1,4 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
 
@@ -15,7 +15,6 @@
 
 
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
  -N/A
